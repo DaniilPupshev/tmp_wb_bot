@@ -1,4 +1,4 @@
-BOT_TOKEN = '6814682306:AAHtB8kSAy5ZyzrIYH7h6HfygYLIllONdnc'
+BOT_TOKEN = 
 statuses = ('waiting', 'add_shop', 'add_token', 'in_shop', 'add_admin', 'use_del_admin', 'del_admin', 'time_add', 'del_shop', 'full_time', 'key_query', 'change_name')
 commands = ('/start', '')
 name_posizione = (
