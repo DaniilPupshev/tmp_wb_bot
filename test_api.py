@@ -1,6 +1,6 @@
 import requests
 
-token = 'eyJhbGciOiJFUzI1NiIsImtpZCI6IjIwMjQxMTE4djEiLCJ0eXAiOiJKV1QifQ.eyJlbnQiOjEsImV4cCI6MTc0Nzk3OTY0MSwiaWQiOiIwMTkzNGZkYy0wYjI5LTdmMjMtYTAyMS1kNzRlNWNlZWY2OTciLCJpaWQiOjIyMDAzMjkyLCJvaWQiOjEyMzg5OCwicyI6MTA3Mzc0OTc1OCwic2lkIjoiM2NjZmMyNTctZTVjMi00OThlLWFmYzAtYTUwZDE3YWQ4MzZlIiwidCI6ZmFsc2UsInVpZCI6MjIwMDMyOTJ9.2LVYoulqb5DW1fuh3SbBcTQJ28gLnTysoYFAXPaBUwp1nQs45QBJCn5kpSBFX6d_rp00T713-yMbL7E24JMd5A'
+
 
 def get_list_campaign(token, status):
     url = 'https://advert-api.wildberries.ru/adv/v1/promotion/adverts'
